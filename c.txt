@@ -1,0 +1,5 @@
+codes:
+
+1. gcode transmittg to grbl 
+2. grbl ardiuno of full marlin
+3. aux ardiuno as a slave.
